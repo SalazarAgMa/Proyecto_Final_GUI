@@ -73,4 +73,4 @@ Mediante este comando se desplegara la ventana inicial y sera posible hacer uso 
 En el siguiente enlace es posible acceder al repositorio de GitHub donde se puede obtener los 
 scripts del proyecto.
 
-
+https://github.com/SalazarAgMa/Proyecto_Final_GUI
